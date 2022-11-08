@@ -34,7 +34,7 @@ It is created using the **C programming Language** and it can do many functional
 > Handles the Ctrl + C signal -> It doesn't exit the shell
 
 ## Files description
- - **AUTHORS** -> List of contributors to this repository
+ ### **AUTHORS** -> List of contributors to this repository
  - **man_1_simple_shell** -> Manual page for the simple_shell
  - **shell.h** -> Header file
  - **shell.c** -> main function
